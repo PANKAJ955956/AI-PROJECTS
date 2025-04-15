@@ -1,0 +1,51 @@
+I-Powered Resume Shortlisting System: Use NLP (Spacy/BERT) to rank resumes for job applications.
+
+
+
+
+
+Resume Parser: Extract text from resumes using PyPDF2 and analyze keywords with NLTK.(BEGGINER LEVEL)
+
+
+
+
+
+6. Unemployment & Future of Work 💼🤖
+🔹 Problem:
+Automation replacing traditional jobs.
+Mismatch between industry needs and workforce skills.
+🔹 Solution:
+✅ AI for Job Matching: Personalized job recommendations using AI.
+✅ Upskilling Platforms: AI-based learning systems (Coursera, Udemy, etc.).
+✅ Ethical AI in Workforce Automation: Ensuring human-AI collaboration rather than full replacement.
+
+
+
+
+
+
+🔹 Tech Involved:
+✔ AI & ML, Cloud Computing, AR/VR for Training🔹 AI & Deep Learning Projects
+6. AI Chatbot for Career Guidance
+🔹 Why? Students often struggle to find relevant career paths.
+🔹 Tech Stack: Python, NLP (Dialogflow, Rasa), Flask, MySQL
+🔹 What You'll Do?
+✅ Train a chatbot using historical job descriptions.
+✅ Build a recommendation system suggesting courses based on skills.
+
+
+
+📌 Predictive Analytics for Healthcare (Major Capstone Project)
+💡 Goal: Develop a predictive model for diagnosing diseases from symptoms.
+🔹 Tech Stack: Python, TensorFlow, AWS, Power BI
+✅ Steps:
+1️⃣ Collect healthcare datasets (patient records, symptoms)
+2️⃣ Train ML model to predict diseases based on input symptoms
+3️⃣ Build a Power BI dashboard for hospitals to use
+🚀 Deployment: Deploy ML model as an API for hospitals.
+
+📌 Final Year Submission Tip:
+
+Write a research paper on your project to impress recruiters.
+
+Host project on GitHub & include it in your resume & LinkedIn.

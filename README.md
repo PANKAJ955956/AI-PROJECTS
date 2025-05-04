@@ -36,6 +36,7 @@ I am **Pankaj Kumar**, currently pursuing **B.Tech in Computer Science** from *S
 📫 **Let's Connect**:  
 - [LinkedIn](https://www.linkedin.com/in/pankaj955956)
 - [Email](pankaj955956@gmail.com)
+- [credly id ](https://www.credly.com/users/pankaj-kumar.59367139)
 
 ---
 
